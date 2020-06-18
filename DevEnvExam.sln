@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevEnvExam", "DevEnvExam.csproj", "{141471C6-8A94-4A94-8966-3BC45FFA61CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{141471C6-8A94-4A94-8966-3BC45FFA61CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{141471C6-8A94-4A94-8966-3BC45FFA61CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{141471C6-8A94-4A94-8966-3BC45FFA61CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{141471C6-8A94-4A94-8966-3BC45FFA61CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95C80CEF-5361-42B3-87E0-762065CADB91}
+	EndGlobalSection
+EndGlobal
